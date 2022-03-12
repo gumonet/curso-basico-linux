@@ -3,8 +3,8 @@ Es un programa que toma los comandos escritos por el teclado y enviarselo al sis
 ## Emuladores de terminales
 Siempre que utilicemos una interfaz gráfica hacemos uso de otro programa conocido como Emulador de Terminal para interactual con la shell. Los mas comúnes y que por default tenemos instalados en los sistemas linux son:
 
-- konsole: Para entornos **KDE**
-- gnome-terminal: Para entornos **GNOME**
+- **konsole**: Para entornos **KDE**
+- **gnome-terminal**: Para entornos **GNOME**
 
 También existen una infinidad de emuladores de terminales en internet, incluso podemos encontrar emuladores para windows. (Ya dedicaremos una publicación para describir los más populares y como configurarlos)
 
